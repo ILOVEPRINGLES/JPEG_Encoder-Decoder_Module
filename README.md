@@ -1,4 +1,4 @@
-# JPEG_Encoder-Decoder_Module
+# JPEG_Encoder/Decoder_Module
 
 This is a lab assignment of SoC Design course. The objective of this lab is to design a JPEG encoder/decoder unit by using systemC. 
 # Theory
